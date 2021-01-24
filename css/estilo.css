@@ -1,0 +1,195 @@
+body {
+  padding: 0px;
+  margin: 0;
+
+  background-color: #f5f3f385;
+  font-family: Century Gothic;
+}
+
+header {
+
+  background-color: #cba696;
+  color: #ffffff;
+  width: auto;
+  padding-top: 10px;
+  
+  
+}
+#margin {
+  margin-left: 20%;
+  margin-right: 20%;
+  border-right: 1px solid #dddddd;
+  border-left: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 30px;
+}
+
+header span {
+  font-size: 2.5em;
+  color:white;
+  padding-left: 10px;
+  padding-bottom: 15px;
+}
+
+
+article img {
+  width: 300px;
+  border: 5px solid #cccccc;
+}
+article  div[class="poesia"] p img{
+  max-width: 170px;
+  float: left;
+  margin-right: 10px;
+}
+article  div[class="poesia"] p{
+  max-width: 750px;
+  margin-bottom: 100px;
+}
+lu[class="listadoPoesia"]{
+list-style: none;
+}
+
+img.izquierda {
+  float: left;
+  margin: 1em;
+}
+
+img.derecha {
+  float: right;
+  margin: 1em;
+}
+a {
+  text-decoration: none;
+  color: #6b947fee;
+}
+nav {
+  background: #fff3ee;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  background: #fff3ee;
+  line-height: 2em;
+}
+
+nav ul li a {
+  font-weight: normal;
+  background: #fff3ee;
+  color: #8a7065;
+  padding: 0.35em;
+}
+
+nav ul li a:hover {
+  background: #966164;
+  text-decoration: none;
+  color: #e4bdae;
+  border-bottom: 0px solid #cba696;
+}
+
+nav .current_page_item a {
+  background: #966164;
+  color: #e4bdae;
+  border-bottom: 5px solid #63343a;
+}
+
+main {
+
+  background-color: white;
+}
+
+footer {
+  clear: both;
+  width: 100%;
+  background: #fff3ee;
+  bottom: 0;
+  text-align: center;
+  margin-top: 2%;
+}
+
+footer p {
+  margin: 0;
+  padding: 1em;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.search{
+  
+  padding-top:0px;
+  text-align: center;
+}
+.search label{
+  color:#000000;
+  font-size:12.9px;
+}
+.search input[type="submit"] {
+  background-color: #57969b;
+  border-style: outset;
+  border-radius: 12px;
+
+  color: #FFFFFF;
+  padding: 7px 16px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+.imagen{
+  text-align: center;
+  color: #57969b;
+}
+.imagesGenero{
+  max-width: 700px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.imagenCentro{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.listadoIndex{
+  float:left;
+}
+#imagenChica{
+  max-width: 400px;
+  height: auto;
+  float:right;
+}
+
+
+input[type="search"]{
+  width:170px;
+  margin:10px;
+  padding:10px 16px;
+  border-radius:32px;
+  outline:none;
+  border:2px solid #ccd1d1;
+  background:#aeb6bf;
+  transition:all 0.5s;
+}
+input[type="search"]:focus{
+  background:#fff;
+  width:300px;
+}
