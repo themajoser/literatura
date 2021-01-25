@@ -14,6 +14,7 @@
     <?php include("comunes/header.php"); ?>
     <?php include("comunes/menu.php"); ?>
     <div id="margin">
+    <section>
     <article>
         <h1>Buscador</h1>
 
@@ -28,7 +29,7 @@
 
 
             <div class="search">
-                <form action="buscador.php" method="post" target="_blank">
+                <form action="buscador.php" method="post" target="_self">
 
                     <label for="searcher">Buscador general</label>
                     <input name="searcher" id="searcher" type="search" name="busquedamusica" placeholder="Título">
@@ -86,6 +87,7 @@
 
 
     </article>
+    </section>
     </div>
     <?php include("comunes/footer.php"); ?>
 

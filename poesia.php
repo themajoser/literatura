@@ -14,7 +14,7 @@
     <?php include("comunes/header.php"); ?>
     <?php include("comunes/menu.php"); ?>
     <div id="margin">
-
+    <section>
         <h1>POESÍA CONTEMPORÁNEA ESPAÑOLA</h1>
         <article>
             <p>Libros y Autores</p>
@@ -158,7 +158,7 @@
 
 
 
-
+</section>
     </div>
     <?php include("comunes/footer.php"); ?>
 

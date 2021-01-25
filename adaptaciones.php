@@ -14,7 +14,7 @@
     <?php include("comunes/header.php"); ?>
     <?php include("comunes/menu.php"); ?>
     <div id="margin">
-
+    <section>
         <h1>ADAPTACIONES CINEMATOGRÁFICAS</h1>
         <article>
            
@@ -30,6 +30,7 @@
                  gran pantalla, entre ellas dos de sus títulos más importantes: “La verdad sobre el caso Savolta” (1978) y “La ciudad de los prodigios” (1999).
             </p>
             <center><img src="images/others/14.jpg"><img src="images/others/14.1.jpg"></center>
+            <br><br><br>
             <lu class="listadoPoesia">
                 <li>
                     <div class="poesia">
@@ -96,7 +97,7 @@
         </article>
 
 
-
+        <section>
 
     </div>
     <?php include("comunes/footer.php"); ?>

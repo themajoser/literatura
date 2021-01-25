@@ -48,37 +48,38 @@
                 <p><u> La comedia. </u> Es una representación de un aspecto alegre y divertido de la vida humana, narrado a través de un conflicto que termina con un final feliz. </p>
 
             </article>
-            <H3>DESCUBRE EN NUESTRA PÁGINA:</H3>
+            <H3>DESCUBRE EN NUESTRA PÁGINA:  <img id="imagenChica" alt="Imagen de una chica leyendo un libro en una hamaca" src="images/others/31.jpg" /></H3>
 
-            <ul class="listadoIndex">
+            <ul >
+           
                 <li>
-                    <a href="/listado.php">
+                    <a href="listado.php">
                         <h4>NOVELAS POR GÉNERO</h4>
                     </a>
                 </li>
                 <li>
-                    <a href="/listado.php">
+                    <a href="poesia.php">
                         <h4>POESÍA CONTEMPORÁNEA</h4>
                     </a>
                 </li>
                 <li>
-                    <a href="/listado.php">
+                    <a href="autores.php">
                         <h4>AUTORES</h4>
                     </a>
                 </li>
                 <li>
-                    <a href="/listado.php">
+                    <a href="premiados.php">
                         <h4>LOS LIBROS MÁS PREMIADOS</h4>
                     </a>
                 </li>
                 <li>
-                    <a href="/listado.php">
+                    <a href="adaptaciones.php">
                         <h4>ADAPTACIONES CINEMATOGRAFICAS</h4>
                     </a>
                 </li>
             </ul>
             <br>
-            <img id="imagenChica" alt="Imagen de una chica leyendo un libro en una hamaca" src="images/others/31.jpg" />
+           
     </div>
 
     <!-- <article>
