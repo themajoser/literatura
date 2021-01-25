@@ -21,6 +21,7 @@
     <?php include("comunes/header.php"); ?>
     <?php include("comunes/menu.php"); ?>
 	<div id="margin">
+	<section>
     <article>
 
 	<?php
@@ -42,10 +43,14 @@
 		echo "<h2>Autor</h2>";
 		$consulta_autor_nombre = "SELECT * FROM autores WHERE id_autor=".$novelaInfo["id_autor"];
 		$resultado_autor_nombre = mysqli_query($conexion, $consulta_autor_nombre);
+		$autores = mysqli_fetch_array($resultado_autor_nombre);
+		if ($autores["nombre"]==''){
+			$autores["nombre"]="No disponible";
+		} 
         
 		echo "<ul>";
 		    echo "<li>";
-		    echo $resultado_autor_nombre["nombre"];
+		    echo $autores["nombre"];
 		    echo "</li>\n";
         	
 		echo "</ul>\n";
@@ -53,7 +58,8 @@
         	
 	?>
 
-    </article>
+	</article>
+</section>
 	</div>
     <?php include("comunes/footer.php"); ?>
 
