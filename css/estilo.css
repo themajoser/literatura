@@ -20,6 +20,7 @@ section{
   padding-left: 80px;
   padding-right: 80px;
   padding-top: 30px;
+  padding-bottom: 30px;
 }
 #margin {
   margin-left: 20%;
@@ -41,6 +42,12 @@ header span {
 article img {
   width: 300px;
   border: 5px solid #cccccc;
+  margin-bottom: 10px;
+}
+article img[id="listado"] {
+  width: 800px;
+  border: 5px solid #cccccc;
+  margin-bottom: 10px;
 }
 article  div[class="poesia"] p img{
   max-width: 170px;
@@ -109,6 +116,7 @@ main {
   padding-left: 80px;
   padding-right: 80px;
   padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 footer {
@@ -128,7 +136,7 @@ footer p {
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
-  width: 50%;
+  width: 100%;
 }
 
 td, th {

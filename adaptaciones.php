@@ -29,7 +29,7 @@
                  de la cripta embrujada”, primer título de una exitosa saga protagonizada por un detective sin nombre. En total, cinco de las novelas de Mendoza han sido llevadas a la 
                  gran pantalla, entre ellas dos de sus títulos más importantes: “La verdad sobre el caso Savolta” (1978) y “La ciudad de los prodigios” (1999).
             </p>
-            <center><img src="images/others/14.jpg"><img src="images/others/14.1.jpg"></center>
+            <center><img alt="Portada del libro “El maestro de esgrima” " src="images/others/14.jpg"><img  alt="Portada de la película “El maestro de esgrima” " src="images/others/14.1.jpg"></center>
             <br><br><br>
             <lu class="listadoPoesia">
                 <li>

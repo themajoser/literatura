@@ -48,10 +48,10 @@
                 <p><u> La comedia. </u> Es una representación de un aspecto alegre y divertido de la vida humana, narrado a través de un conflicto que termina con un final feliz. </p>
 
             </article>
-            <H3>DESCUBRE EN NUESTRA PÁGINA:  <img id="imagenChica" alt="Imagen de una chica leyendo un libro en una hamaca" src="images/others/31.jpg" /></H3>
+            <H3>DESCUBRE EN NUESTRA PÁGINA: <img id="imagenChica" alt="Imagen de una chica leyendo un libro en una hamaca" src="images/others/31.jpg" /></H3>
 
-            <ul >
-           
+            <ul>
+
                 <li>
                     <a href="listado.php">
                         <h4>NOVELAS POR GÉNERO</h4>
@@ -79,56 +79,45 @@
                 </li>
             </ul>
             <br>
-           
-    </div>
 
-    <!-- <article>
-                <h2>Granny Smith</h2>
-                <p>These juicy, green apples make a great filling for
-                    apple pies.</p>
-                <p>... </p>
-                <p>... </p>
+
+
+                <article>
                 <table>
                     <tr>
-                        <th>Company</th>
-                        <th>Contact</th>
-                        <th>Country</th>
+                        <td>NOVELAS POR GÉNEROS</td>
+                        <td>Descubre tus novelas españolas contemporáneas favoritas. Elige entre numerosas categorías como es la romántica, realista, histórica, de terror y
+                            fantástica. Algunos nombres que te puedan sonar son: “Toda la verdad de mis mentiras”, “El Prisionero del cielo”, o “Julia retó a los dioses”.</td>
+
                     </tr>
                     <tr>
-                        <td>Alfreds Futterkiste</td>
-                        <td>Maria Anders</td>
-                        <td>Germany</td>
+                        <td> POESÍA</td>
+                        <td>Algunos títulos y autores para cautivar tu lado más poeta, son: “No vine a ser carne”, de Gata Cattana, “Primero de poeta” de Patricia Benito, o,
+                            “Lírica de lo cotidiano”, de Miguel Ángel Herranz.</td>
+
+
                     </tr>
                     <tr>
-                        <td>Centro comercial Moctezuma</td>
-                        <td>Francisco Chang</td>
-                        <td>Mexico</td>
+                        <td>AUTORES</td>
+                        <td>Descubre a los autores contemporáneos de mayor renombre del sector. Entre estos, algunos nombres que resaltan son: Laura Gallego, Santiago Posteguillo,
+                            o Megan Maxwell. ¡No te lo pierdas!</td>
+
                     </tr>
                     <tr>
-                        <td>Ernst Handel</td>
-                        <td>Roland Mendel</td>
-                        <td>Austria</td>
+                        <td>LOS MÁS PREMIADOS</td>
+                        <td>Sumérgete en la gran variedad de libros contemporáneos españoles que han recibido galardones como: “Niebla en Tánger”, “Media vida”, “Milena o el fémur
+                            más bello del mundo”, u “Hombres desnudos.”</td>
+
                     </tr>
                     <tr>
-                        <td>Island Trading</td>
-                        <td>Helen Bennett</td>
-                        <td>UK</td>
-                    </tr>
-                    <tr>
-                        <td>Laughing Bacchus Winecellars</td>
-                        <td>Yoshi Tannamuri</td>
-                        <td>Canada</td>
-                    </tr>
-                    <tr>
-                        <td>Magazzini Alimentari Riuniti</td>
-                        <td>Giovanni Rovelli</td>
-                        <td>Italy</td>
+                        <td>ADAPTACIONES CINEMATOGRÁFICAS</td>
+                        <td>Del papel a la gran pantalla: hay decenas de libros que se han abierto paso a los salones de cine, entre los libros españoles contemporáneos encontramos:
+                            “Capitán Alatriste”, “La novia”, o “La carta esférica.”</td>
+
                     </tr>
                 </table>
-
-            </article> -->
-
-    </main>
+                </article>
+        </main>
     </div>
     <?php
     include("./comunes/footer.php");

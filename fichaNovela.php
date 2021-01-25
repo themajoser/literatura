@@ -43,7 +43,9 @@ $novelaInfo = mysqli_fetch_array($resultado);
 				echo "<p>" . nl2br($novelaInfo["descripcion"]) . "</p>\n";
 
 				// Visualiza los ingredientes
-				echo "<h2>Autor</h2>";
+				
+				if( $novelaInfo["id_autor"]!=""){
+					echo "<h2>Autor</h2>";
 				$consulta_autor_nombre = "SELECT * FROM autores WHERE id_autor=" . $novelaInfo["id_autor"];
 				$resultado_autor_nombre = mysqli_query($conexion, $consulta_autor_nombre);
 				$autores = mysqli_fetch_array($resultado_autor_nombre);
@@ -55,7 +57,7 @@ $novelaInfo = mysqli_fetch_array($resultado);
 				echo $autores["id_autor"] . "\">";
 				echo  $autores["nombre"] . "</a>";
 
-
+			}
 
 				?>
 
