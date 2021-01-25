@@ -23,7 +23,12 @@
 			if (!isset($_GET["id_genero"])) {
 
 				// Esta parte visualiza un listado de generos
+				echo "<p>Esta categoría tiene como propósito clasificar novelas por género, lo que entendemos conforme al significado común de la expresión «literatura de género», que es diferente al de la clasificación tradicional de los «géneros literarios» donde la novela sería un género por sí misma.
 
+				Para que un texto sea considerado novela, entre otras características debe poseer dos esenciales: ser un texto de ficción y estar escrito en prosa.
+				
+				La novela es un género que no ha dejado de evolucionar desde sus primeros antecedentes en la antigua Grecia o China. Por tanto, veamos primero una lista de géneros clásicos según el contenido y los subgéneros que han ido surgiendo de los primeros, en ocasiones, al mezclarse con otros géneros.
+				</p>";
 				$consulta = "select * from generos";
 				$resultado = mysqli_query($conexion, $consulta);
 
