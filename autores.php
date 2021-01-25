@@ -3,7 +3,7 @@
 
 <head>
         <meta content="text/html; charset=UTF-8" http-equiv="content-type">
-        <title>Catálogo de novelas</title>
+        <title>Listado de autores</title>
         <meta content="Listado de autores" name="description">
         <meta content="Literatura comtemporánea, novelas , películas y poesías. " name="keywords">
         <link href="css/estilo.css" rel="stylesheet" type="text/css">

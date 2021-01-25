@@ -3,8 +3,8 @@
 
 <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
-    <title>Catálogo de novelas</title>
-    <meta content="Listado de géneros" name="description">
+    <title>Listado de libros poéticos</title>
+    <meta content="Listado de libros poéticos" name="description">
     <meta content="Literatura comtemporánea, novelas , películas y poesías. " name="keywords">
     <link href="css/estilo.css" rel="stylesheet" type="text/css">
 </head>

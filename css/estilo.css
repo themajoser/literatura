@@ -21,6 +21,7 @@ section{
   padding-right: 80px;
   padding-top: 30px;
   padding-bottom: 30px;
+  text-align: justify;
 }
 #margin {
   margin-left: 20%;
@@ -28,6 +29,7 @@ section{
   border-right: 1px solid #dddddd;
   border-left: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
+  text-align: justify;
 
 }
 
@@ -75,6 +77,9 @@ a {
   text-decoration: none;
   color: #6b947fee;
 }
+p{
+  text-align: justify;
+}
 nav {
   background: #fff3ee;
 }
@@ -117,6 +122,7 @@ main {
   padding-right: 80px;
   padding-top: 30px;
   padding-bottom: 30px;
+  text-align: justify;
 }
 
 footer {
