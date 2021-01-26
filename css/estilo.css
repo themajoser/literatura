@@ -41,7 +41,6 @@ header span {
 }
  div[id="subrayado"] {
   text-decoration:underline;
-  margin-right: 0;
   display: inline-block;
 }
 
@@ -102,7 +101,7 @@ nav ul li {
 nav ul li a {
   font-weight: normal;
   background: #fff3ee;
-  color: #8a7065;
+  color: #3a2f2b;
   padding: 0.35em;
 }
 
