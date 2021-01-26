@@ -8,12 +8,10 @@ body {
 
 header {
 
-  background-color: #ad8e81;
+  background-color: #cba696;
   color: #ffffff;
   width: auto;
   padding-top: 10px;
-  
-  
 }
 section{
   background-color: white;
@@ -40,7 +38,7 @@ header span {
   padding-bottom: 15px;
 }
  div[id="subrayado"] {
-  text-decoration:underline;
+  font-weight: bold;
   display: inline-block;
 }
 
@@ -101,7 +99,7 @@ nav ul li {
 nav ul li a {
   font-weight: normal;
   background: #fff3ee;
-  color: #3a2f2b;
+  color: #8a7065;
   padding: 0.35em;
 }
 
@@ -114,7 +112,7 @@ nav ul li a:hover {
 
 nav .current_page_item a {
   background: #966164;
-  color: #ffffff;
+  color: #e4bdae;
   border-bottom: 5px solid #63343a;
 }
 
@@ -144,7 +142,7 @@ footer p {
 
 table {
   font-family: arial, sans-serif;
-  border-collapse: collapse;
+  border-collapse: collapse
   width: 100%;
 }
 
@@ -154,9 +152,7 @@ td, th {
   padding: 8px;
 }
 
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
+
 .search{
   
   padding-top:0px;

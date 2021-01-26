@@ -2,7 +2,7 @@
 
 	<div id="copyright">
 		<p>
-			© Copyright 2021 // Desarrollado por Marta Águeda Aznar García y Camila de Castro Olena Opayets
+		Copyright 2021 //Construcción de Servicios de Información Digital
 		</p>
 	</div>
 

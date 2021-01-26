@@ -36,7 +36,7 @@
                 <li>
                     <div class="poesia">
 
-                        <p><img src="images/others/15.jpg"><strong>CAPITÁN ALATRISTE</strong><br><br>
+                        <p><img alt="Portada de la película: CAPITÁN ALATRISTE " src="images/others/15.jpg"><strong>CAPITÁN ALATRISTE</strong><br><br>
                         El escritor del best seller español por antonomasia, Arturo Pérez-Reverte, y la serie de novelas que dieron lugar a la película con la que empezamos a hablar de cine en Punto y Coma. 
                         Los libros del carismático capitán Alatriste son relatos clásicos de aventuras, entretenidos, sencillos y emocionantes. Con una prosa mucho menos falsa y alambicada de la que suele emplear este escritor.
                          Las correrías de este heroico espadachín forman parte ya del imaginario colectivo. La película de Díaz Yanes intentó concentrar varias de las novelas en un solo guion, y lo hizo con muchos medios, 
@@ -48,7 +48,7 @@
                 <li>
                     <div class="poesia">
 
-                        <p><img src="images/others/16.jpg"><strong>PALMERAS EN LA NIEVE</strong><br><br>
+                        <p><img alt="Portada de la película: PALMERAS EN LA NIEVE" src="images/others/16.jpg"><strong>PALMERAS EN LA NIEVE</strong><br><br>
                         Palmeras en la nieve, protagonizada por Mario Casas, Adriana Ugarte, Macarena García, Alain Hernández, Berta Vázquez, Emilio Gutiérrez Caba, Djedje Apali, Daniel Grao, Fernando Cayo, Celso Bugallo, 
                         Petra Martínez y Laia Costa, es la película española de mayor presupuesto en los últimos años, rodada en castellano entre Colombia, Huesca y Gran Canaria, donde se han construido espectaculares
                          escenarios para recrear los parajes naturales existentes en Guinea Ecuatorial. Se rodó a lo largo de catorce semanas empleando a más de 70 actores, más de 250 técnicos y más de 2.200 extras, 
@@ -59,7 +59,7 @@
                 <li>
                     <div class="poesia">
 
-                        <p><img src="images/others/17.jpg"><strong>LA NOVIA</strong><br><br>
+                        <p><img alt="Portada de la película: LA NOVIA " src="images/others/17.jpg"><strong>LA NOVIA</strong><br><br>
                         Quién no habla de La Novia estos días. Más allá de la gran obra maestra que ha creado Paula Ortiz, de su fotografía y de la magnífica interpretación de Inma
                          Cuesta, debemos saber que se trata de una libre, aunque fiel adaptación de Bodas de sangre, un clásico de la literatura del siglo XX del gran Federico García 
                          Lorca en el que se mantienen los diálogos prácticamente intactos en su adaptación a la gran pantalla. Y parece que el poeta granadino ha traído suerte al
@@ -70,7 +70,7 @@
                 <li>
                     <div class="poesia">
 
-                        <p><img src="images/others/18.jpg"><strong>LA PIEL QUE HABITO</strong><br><br>
+                        <p> <img alt="Portada de la película: LA PIEL QUE HABITO" src="images/others/18.jpg" ><strong>LA PIEL QUE HABITO</strong><br><br>
                         Incluso el gran Almodóvar buscó inspiración en una obra literaria que configuraría una de sus últimas películas más exitosas, ganadora de un BAFTA a mejor película de habla no inglesa y cuatro premios Goya. 
                         La piel que habito está en realidad inspirada en Tarántula, una novela del fallecido escritor francés Thierry Jonquet, aunque con un enfoque creativo distinto y el toque personal del director manchego. 
                         Una reflexión sobre la venganza, el origen del mal y los usos de la cirugía que, sin duda, no deja indiferente a nadie.
@@ -81,7 +81,7 @@
                 <li>
                     <div class="poesia">
 
-                        <p><img src="images/others/19.jpg"><strong> LA CARTA ESFÉRICA</strong><br><br>
+                        <p><img alt="Portada de la película: LA CARTA ESFÉRICA" src="images/others/19.jpg"><strong> LA CARTA ESFÉRICA</strong><br><br>
                         El director Imanol Uribe recupera el ritmo narrativo del cine clásico de aventuras en La carta esférica, adaptación cinematográfica de la novela homónima de Arturo Pérez Reverte que cuenta con "una potente
                          historia de amor como telón de fondo" encarnada por Aitana Sánchez-Gijón y Carmelo Gómez. a adaptación al cine de una novela de Arturo Pérez Reverte ¿puede ser buena? Según el propio escritor, "sí". Es más, 
                          la película La carta esférica, de estreno en todo España el próximo viernes, lo es. Así de rotundo se mostró el cartaginense la mañana del miércoles en la presentación a la prensa de la adaptación al cine de 

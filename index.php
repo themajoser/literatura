@@ -86,32 +86,32 @@
                 <article>
                 <table>
                     <tr>
-                        <td>NOVELAS POR GÉNEROS</td>
+                        <th>NOVELAS POR GÉNEROS</th>
                         <td>Descubre tus novelas españolas contemporáneas favoritas. Elige entre numerosas categorías como es la romántica, realista, histórica, de terror y
                             fantástica. Algunos nombres que te puedan sonar son: “Toda la verdad de mis mentiras”, “El Prisionero del cielo”, o “Julia retó a los dioses”.</td>
 
                     </tr>
                     <tr>
-                        <td> POESÍA</td>
+                        <th> POESÍA</th>
                         <td>Algunos títulos y autores para cautivar tu lado más poeta, son: “No vine a ser carne”, de Gata Cattana, “Primero de poeta” de Patricia Benito, o,
                             “Lírica de lo cotidiano”, de Miguel Ángel Herranz.</td>
 
 
                     </tr>
                     <tr>
-                        <td>AUTORES</td>
+                        <th>AUTORES</th>
                         <td>Descubre a los autores contemporáneos de mayor renombre del sector. Entre estos, algunos nombres que resaltan son: Laura Gallego, Santiago Posteguillo,
                             o Megan Maxwell. ¡No te lo pierdas!</td>
 
                     </tr>
                     <tr>
-                        <td>LOS MÁS PREMIADOS</td>
+                        <th>LOS MÁS PREMIADOS</th>
                         <td>Sumérgete en la gran variedad de libros contemporáneos españoles que han recibido galardones como: “Niebla en Tánger”, “Media vida”, “Milena o el fémur
                             más bello del mundo”, u “Hombres desnudos.”</td>
 
                     </tr>
                     <tr>
-                        <td>ADAPTACIONES CINEMATOGRÁFICAS</td>
+                        <th>ADAPTACIONES CINEMATOGRÁFICAS</th>
                         <td>Del papel a la gran pantalla: hay decenas de libros que se han abierto paso a los salones de cine, entre los libros españoles contemporáneos encontramos:
                             “Capitán Alatriste”, “La novia”, o “La carta esférica.”</td>
 
