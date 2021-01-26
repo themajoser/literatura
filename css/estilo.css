@@ -8,7 +8,7 @@ body {
 
 header {
 
-  background-color: #cba696;
+  background-color: #ad8e81;
   color: #ffffff;
   width: auto;
   padding-top: 10px;
@@ -78,7 +78,7 @@ img.derecha {
 }
 a {
   text-decoration: none;
-  color: #6b947fee;
+  color: #4c6b5aee;
 }
 p{
   text-align: justify;
@@ -114,7 +114,7 @@ nav ul li a:hover {
 
 nav .current_page_item a {
   background: #966164;
-  color: #e4bdae;
+  color: #ffffff;
   border-bottom: 5px solid #63343a;
 }
 
