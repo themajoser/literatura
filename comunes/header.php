@@ -1,6 +1,6 @@
 
 <header>
-            <a href="/Periodismo">
-                <span>Literatura Contemporanea Española</span>
+            <a href="index.php">
+                <span>Literatura Contemporánea Española</span>
             </a>
 </header>

@@ -39,7 +39,11 @@ header span {
   padding-left: 10px;
   padding-bottom: 15px;
 }
-
+ div[id="subrayado"] {
+  text-decoration:underline;
+  margin-right: 0;
+  display: inline-block;
+}
 
 article img {
   width: 300px;

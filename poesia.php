@@ -4,6 +4,7 @@
 <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
     <title>Listado de libros poéticos</title>
+    <meta content="Marta Águeda Aznar García y Camila de Castro Olena Opayets" name="authors">
     <meta content="Listado de libros poéticos" name="description">
     <meta content="Literatura comtemporánea, novelas , películas y poesías. " name="keywords">
     <link href="css/estilo.css" rel="stylesheet" type="text/css">

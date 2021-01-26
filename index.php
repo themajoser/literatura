@@ -4,6 +4,7 @@
     <title>Literatura</title>
     <link rel="stylesheet" type="text/css" href="./css/estilo.css">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta content="Marta Águeda Aznar García y Camila de Castro Olena Opayets" name="authors">
     <meta content="Inicio de literatura comtemporánea" name="description">
     <meta content="Literatura comtemporánea, novelas , películas y poesías. " name="keywords">
 </head>
@@ -41,11 +42,11 @@
                 <img class="imagenCentro" alt="Imagen de varios libros abiertos y otros cerrados" src="images/others/30.jpg" />
                 </br></br></br>
                 <strong>La literatura contemporánea se caracteriza por el surgimiento de nuevos géneros o categorías, como:</strong>
-                <p><u>La ficción.</u> Es un relato imaginario, aunque refleja ciertos aspectos de la vida real y de las emociones humanas.</p>
-                <p><u> La novela gráfica. </u>Es un relato extenso, con un argumento complejo y desarrollado. Se diferencia de un cuento porque el lector conoce tanto la trama como lo que sienten los personajes. </p>
-                <p><u> La poesía de verso libre. </u> Es una narración de estructura libre en lugar de emplear el verso. Ciertos autores hasta se atreven a escribir de forma desordenada.</p>
-                <p><u> El cuento popular o fábula. </u> Es un relato breve sobre un tema inventado y con argumentos sencillos, que deja una enseñanza (o apólogo). </p>
-                <p><u> La comedia. </u> Es una representación de un aspecto alegre y divertido de la vida humana, narrado a través de un conflicto que termina con un final feliz. </p>
+                <p> <div  id="subrayado">La ficción.</div> Es un relato imaginario, aunque refleja ciertos aspectos de la vida real y de las emociones humanas.</p>
+                <p><div id="subrayado"> La novela gráfica. </div>Es un relato extenso, con un argumento complejo y desarrollado. Se diferencia de un cuento porque el lector conoce tanto la trama como lo que sienten los personajes. </p>
+                <p><div id="subrayado"> La poesía de verso libre. </div> Es una narración de estructura libre en lugar de emplear el verso. Ciertos autores hasta se atreven a escribir de forma desordenada.</p>
+                <p><div id="subrayado"> El cuento popular o fábula. </div> Es un relato breve sobre un tema inventado y con argumentos sencillos, que deja una enseñanza (o apólogo). </p>
+                <p><div id="subrayado"> La comedia. </div> Es una representación de un aspecto alegre y divertido de la vida humana, narrado a través de un conflicto que termina con un final feliz. </p>
 
             </article>
             <H3>DESCUBRE EN NUESTRA PÁGINA: <img id="imagenChica" alt="Imagen de una chica leyendo un libro en una hamaca" src="images/others/31.jpg" /></H3>
