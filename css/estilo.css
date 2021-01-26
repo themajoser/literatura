@@ -17,15 +17,15 @@ header {
 }
 section{
   background-color: white;
-  padding-left: 80px;
-  padding-right: 80px;
+  padding-left: 10%;
+  padding-right: 10%;
   padding-top: 30px;
   padding-bottom: 30px;
   text-align: justify;
 }
 #margin {
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 10%;
+  margin-right: 10%;
   border-right: 1px solid #dddddd;
   border-left: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
@@ -217,4 +217,26 @@ input[type="search"]{
 input[type="search"]:focus{
   background:#fff;
   width:300px;
+}
+footer p{
+  text-align:center;
+
+}
+footer{
+  bottom: 0;
+  clear: both;
+    position: relative;
+}
+div[class="vacio"]{
+  height: 20rem;
+    position: relative;
+}
+div[class="vacio2"]{
+  height: 36rem;
+    position: relative;
+}
+
+div[class="vacio3"]{
+  height: 14rem;
+    position: relative;
 }

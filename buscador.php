@@ -89,6 +89,9 @@
     </article>
     </section>
     </div>
+    <div class="vacio2">
+        
+    </div>
     <?php include("comunes/footer.php"); ?>
 
 </body>

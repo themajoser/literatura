@@ -38,7 +38,7 @@
                 </p>
                 <p> Existen tantos puntos de vista como narradores, sin embargo, es importante destacar un punto en común en las
                     obras contemporáneas: el autor siempre se encuentra disconforme con la realidad que describe.</p>
-                <img class="imagenCentro" alt="Imagen de varios libros abiertos y otros cerrados" src="imagenes/others/30.jpg" />
+                <img class="imagenCentro" alt="Imagen de varios libros abiertos y otros cerrados" src="images/others/30.jpg" />
                 </br></br></br>
                 <strong>La literatura contemporánea se caracteriza por el surgimiento de nuevos géneros o categorías, como:</strong>
                 <p><u>La ficción.</u> Es un relato imaginario, aunque refleja ciertos aspectos de la vida real y de las emociones humanas.</p>
@@ -48,7 +48,7 @@
                 <p><u> La comedia. </u> Es una representación de un aspecto alegre y divertido de la vida humana, narrado a través de un conflicto que termina con un final feliz. </p>
 
             </article>
-            <H3>DESCUBRE EN NUESTRA PÁGINA: <img id="imagenChica" alt="Imagen de una chica leyendo un libro en una hamaca" src="imagenes/others/31.jpg" /></H3>
+            <H3>DESCUBRE EN NUESTRA PÁGINA: <img id="imagenChica" alt="Imagen de una chica leyendo un libro en una hamaca" src="images/others/31.jpg" /></H3>
 
             <ul>
 
