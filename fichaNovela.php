@@ -8,7 +8,7 @@ $novelaInfo = mysqli_fetch_array($resultado);
 ?>
 
 <!DOCTYPE html>
-<html>
+<html lang="es">
 
 <head>
 	<meta content="text/html; charset=UTF-8" http-equiv="content-type">

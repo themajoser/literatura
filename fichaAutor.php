@@ -8,7 +8,7 @@
 ?>
 
 <!DOCTYPE html>
-<html>
+<html lang="es">
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
 	<title><?php echo $autorInfo["nombre"]; ?></title>
