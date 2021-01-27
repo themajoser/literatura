@@ -5,8 +5,8 @@
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
     <title>Buscador</title>
     <meta content="Marta Águeda Aznar García y Camila de Castro Olena Opayets" name="authors">
-    <meta content="Buscador de novelas de cocina" name="description">
-    <meta content="Gastronomía Murciana, novelas de cocina" name="keywords">
+    <meta content="Buscador de novelas " name="description">
+    <meta content="Literatura contemporánea, novelas y poesía." name="keywords">
     <link href="css/estilo.css" rel="stylesheet" type="text/css">
 </head>
 

@@ -13,8 +13,8 @@
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
 	<title><?php echo $autorInfo["nombre"]; ?></title>
 	<meta content="Marta Águeda Aznar García y Camila de Castro Olena Opayets" name="authors">
-    <meta content="novela de Gastronomía Murciana" name="description">
-    <meta content="Gastronomía Murciana, novelas de cocina" name="keywords">
+    <meta content="Biografía y obras de <?php echo $autorInfo["nombre"]; ?>" name="description">
+    <meta content="Literatura contemporánea, novelas y poesía." name="keywords">
     <link href="css/estilo.css" rel="stylesheet" type="text/css">
   </head>
   <body>
